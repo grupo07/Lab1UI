@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab1UI</string>
+    <string name="nombre">Name*:</string>
+    <string name="apellido">Last name:</string>
+    <string name="sexo">Gender:</string>
+    <string name="femenino">F</string>
+    <string name="masculino">M</string>
+    <string name="fechaNacimiento">Birth date*:</string>
+
+    <string name="pais">Country*:</string>
+    <string name="telefono">Phone*:</string>
+    <string name="direccion">Address:</string>
+    <string name="email">E-mail*:</string>
+
+    <string name="mostrar">Show</string>
+    <string name="hobbies">Hobbies</string>
+    <string name="No_Favorito">No Favorite</string>
+    <string name="Favorito">Favorite</string>
+
+
+    <string-array name="countries_array">
+        <item>Argentina</item>
+        <item>Bolivia</item>
+        <item>Brazil</item>
+        <item>Chile</item>
+        <item>Colombia</item>
+        <item>Costa Rica</item>
+        <item>Cuba</item>
+        <item>Dominican Republic</item>
+        <item>Ecuador</item>
+        <item>El salvador</item>
+        <item>French Guiana</item>
+        <item>Grenada</item>
+        <item>Guatemala</item>
+        <item>Guyana</item>
+        <item>Haiti</item>
+        <item>Honduras</item>
+        <item>Jamaica</item>
+        <item>Mexico</item>
+        <item>Nicaragua</item>
+        <item>Panama</item>
+        <item>Paraguay</item>
+        <item>Peru</item>
+        <item>Puerto Rico</item>
+        <item>Suriname</item>
+        <item>Uruguay</item>
+        <item>Venezuela</item>
+    </string-array>
+
+
+    <string-array name="hobbies_array">
+        <item>Hobbies</item>
+        <item>Skating</item>
+        <item>Anime</item>
+        <item>Piano</item>
+        <item>Movies</item>
+        <item>Study</item>
+        <item>Go out</item>
+    </string-array>
+</resources>

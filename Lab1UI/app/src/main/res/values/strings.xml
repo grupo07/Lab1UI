@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Lab1UI</string>
+    <string name="nombre">Nombres*:</string>
+    <string name="apellido">Apellidos:</string>
+    <string name="sexo">Sexo:</string>
+    <string name="femenino">F</string>
+    <string name="masculino">M</string>
+    <string name="fechaNacimiento">Fecha de nacimiento*:</string>
+
+    <string name="pais">País*:</string>
+    <string name="telefono">Teléfono*:</string>
+    <string name="direccion">Dirección:</string>
+    <string name="email">E-mail*:</string>
+
+    <string name="mostrar">Mostrar</string>
+    <string name="hobbies">Hobbies</string>
+    <string name="No_Favorito">No Favorito</string>
+    <string name="Favorito">Favorito</string>
+
+    <string-array name="countries_array">
+        <item>Argentina</item>
+        <item>Bolivia</item>
+        <item>Brasil</item>
+        <item>Chile</item>
+        <item>Colombia</item>
+        <item>Costa Rica</item>
+        <item>Cuba</item>
+        <item>Ecuador</item>
+        <item>El salvador</item>
+        <item>Guayana Francesa</item>
+        <item>Granada</item>
+        <item>Guatemala</item>
+        <item>Guayana</item>
+        <item>Haití</item>
+        <item>Honduras</item>
+        <item>Jamaica</item>
+        <item>México</item>
+        <item>Nicaragua</item>
+        <item>Panamá</item>
+        <item>Paraguay</item>
+        <item>Perú</item>
+        <item>Puerto Rico</item>
+        <item>República Dominicana</item>
+        <item>Surinam</item>
+        <item>Uruguay</item>
+        <item>Venezuela</item>
+    </string-array>
+
+
+    <string-array name="hobbies_array">
+        <item>Hobbies</item>
+        <item>Patinar</item>
+        <item>Anime</item>
+        <item>Piano</item>
+        <item>Peliculas</item>
+        <item>Estudiar</item>
+        <item>Salir</item>
+    </string-array>
+
+
+</resources>
